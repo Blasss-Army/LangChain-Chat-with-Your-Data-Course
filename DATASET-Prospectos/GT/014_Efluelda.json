@@ -1,0 +1,79 @@
+{
+  "medicamento": "Efluelda",
+  "principio_activo": ["IVR-238","SAN-010","B/Michigan/01/2021"],
+  "indicaciones": [
+    "antigripal"
+  ],
+  "edad_minima": 60,
+  "contraindicaciones": [
+    "alergia a los principios activos",
+    "alergia a componentes como huevos y formaldehido",
+    "respuesta inmunologica debilitada",
+    "problemas de sangrado",
+    "Sindrome de Guillain-Barre",
+    "enfermedad con fiebre alta o moderada",
+    "enfermedad aguda"
+  ],
+  "embarazo": false,
+  "via_administracion": "inyectable",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "dolor en el lugar de inyeccion",
+      "enrojecimiento en el lugar de inyeccion",
+      "sensacion de malestar general",
+      "dolor de cabeza",
+      "dolor muscular"
+    ],
+    "frecuentes": [
+      "hinchazon en el lugar de inyeccion",
+      "hematomas en el lugar de inyeccion",
+      "dureza en el lugar de inyeccion",
+      "fiebre",
+      "escalofrios"
+    ],
+    "poco_frecuentes": [
+      "prurito en el lugar de inyeccion",
+      "fatiga",
+      "letargo",
+      "nauseas",
+      "vomitos",
+      "diarrea",
+      "tos",
+      "debilidad muscular",
+      "dispepsia",
+      "dolor orofaringeo",
+      "astenia",
+      "rubefacción",
+      "artralgia",
+      "mareos",
+      "sudores nocturnos",
+      "erupción",
+      "parestesia",
+      "rinorrea",
+      "vértigo",
+      "hiperemia ocular",
+      "dolor en las extremidades"
+    ],
+    "no_conocidos": [
+      "trombocitopenia",
+      "linfadenopatia",
+      "encefalomielitis",
+      "mielitis transversal",
+      "neuritis braquial",
+      "sindrome de Guillain-Barre",
+      "paralisis de Bell",
+      "neuritis optica/neuropatia",
+      "convulsiones",
+      "sincope",
+      "vasculitis",
+      "vasodilatacion",
+      "dolor en el pecho",
+      "disnea"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Sanofi Pasteur",
+    "direccion": "Parc Industriel d'Incarville, 27100 Val De Reuil, Francia"
+  },
+  "ultima_actualizacion": ""
+}

@@ -1,0 +1,62 @@
+{
+  "medicamento": "Vaxigrip",
+  "principio_activo": "Virus de la gripe (fraccionados, inactivados)",
+  "indicaciones": [
+    "gripe"
+  ],
+  "edad_minima": 6,
+  "contraindicaciones": [
+    "alergia a los principios activos",
+    "alergia a componentes como huevos, neomicina, formaldehido, octoxinol-9",
+    "respuesta inmunologica debilitada",
+    "problemas de sangrado"
+  ],
+  "embarazo": true,
+  "via_administracion": "inyectable",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "Dolor de cabeza",
+      "dolor muscular",
+      "malestar general",
+      "dolor en el lugar de la inyeccion"
+    ],
+    "frecuentes": [
+      "Fiebre",
+      "escalofrios",
+      "reacciones en el lugar de inyeccion: enrojecimiento, dureza, hinchazon"
+    ],
+    "poco_frecuentes": [
+      "Hinchazon de los ganglios del cuello, la axila o la ingle",
+      "cansancio",
+      "somnolencia",
+      "mareos",
+      "aumento de la sudoracion",
+      "dolor articular",
+      "diarrea",
+      "sensacion de enfermedad",
+      "reacciones en el lugar de inyeccion: hematomas, picor, calor y malestar",
+      "entumecimiento o sensación de pinchazos",
+      "vómitos",
+      "disminución del apetito",
+      "enfermedad similar a la gripe",
+      "Disminución de la sensibilidad (hipoestesia)",
+      "dolor abdominal",
+      "alergia en el lugar de inyección",
+      "descamación de la piel en el lugar de la inyección"
+    ],
+    "no_conocidos": [
+      "Inflamacion de las glandulas del cuello, axilas o ingles",
+      "entumecimiento o sensacion de pinchazos",
+      "dolor situado en la via nerviosa",
+      "ataques",
+      "trastornos neurologicos que pueden provocar rigidez de cuello, confusion, entumecimiento, dolor y debilidad de las extremidades, perdida de equilibrio, perdida de reflejos, paralisis de una parte o de todo el cuerpo",
+      "inflamacion de los vasos sanguineos que puede dar lugar a erupciones cutaneas y, en casos muy raros, a problemas renales temporales",
+      "reduccion temporal del numero de ciertos tipos de particulas en la sangre denominadas plaquetas"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Sanofi Pasteur",
+    "direccion": "1541, avenue Marcel Merieux 69280 Marcy l'Etoile - Francia"
+  },
+  "ultima_actualizacion": "noviembre de 2024"
+}

@@ -1,0 +1,85 @@
+{
+    "medicamento": "Clortalidona Glenmark",
+    "principio_activo": ["clortalidona"],
+    "indicaciones": [
+        "hipertensión",
+        "insuficiencia cardiaca",
+        "retención de líquidos en hígado o riñón",
+        "diabetes insípida causada por enfermedad renal"
+    ],
+    "edad_mínima": 18,
+    "contraindicaciones": [
+        "alergia a clortalidona",
+        "si no produce orina",
+        "problemas renales graves",
+        "problemas hepáticos graves",
+        "hipercalcemia",
+        "hiponatremia",
+        "hipopotasemia",
+        " si tiene niveles elevados de ácido úrico en sangre",
+        "hipertensión durante el embarazo"
+    ],
+    "embarazo": false,
+    "via_administracion": "oral",
+    "efectos_adversos": {
+        "muy_frecuentes": [
+            "disminución de potasio en sangre",
+            "aumento de ácido úrico",
+            "aumento de grasas en sangre"
+        ],
+        "frecuentes": [
+            "disminución de sodio y magnesio en sangre",
+            "aumento de azúcar en sangre  y aumento de la excreción de azúcar en la orina ",
+            "empeoramiento de los síntomas de la diabetes o aparición de síntomas de diabetes",
+            " aumento de las sustancias que contienen nitrógeno",
+            "dolores de cabeza",
+            "mareos",
+            "tensión arterial baja",
+
+            "trastornos circulatorios con presión arterial baja al pasar de estar tumbado a estar de pie (intolerancia ortostática)",
+            "palpitaciones", 
+            "pérdida de apetito",
+            "boca seca",
+            "molestias gastrointestinales",
+            "náuseas",
+            "vómitos",
+            "molestias en la parte superior del abdomen",
+            "calambres en la zona abdominal",
+            "estreñimiento",
+            "diarrea",
+            "reacciones alérgicas cutáneas como enrojecimiento de la piel (exantema), urticaria, picor (prurito)",
+            "disminución del tono (hipotonía) de los músculos esqueléticos",
+            "calambres musculares",
+            "impotencia "
+        ],
+        "poco_frecuentes": [
+            "reducción de plaquetas y glóbulos blancos",
+            " ausencia casi total de determinados glóbulos blancos, con propensión a las infecciones y síntomas generales graves",
+            " aumento del número de determinados glóbulos blancos",
+            "aumento de calcio en sangre",
+            "sensaciones anormales (por ejemplo, hormigueo y entumecimiento) en brazos y piernas",
+            "alteraciones visuales",
+
+            "formación limitada de líquido lagrimal",
+            "arritmias cardíacas",
+            "restricción del flujo biliar en el hígado o ictericia",
+            "aumento de las reacciones cutáneas por exposición a la luz, por ejemplo, enrojecimiento de la piel",
+            "inflamación vascular alérgica",
+            "aumento de los niveles de ácido úrico en sangre (gota)",
+
+            " alteración del equilibrio ácido-base en la sangre",
+            "retención de líquido en los pulmones provocada por hipersensibilidad",
+            "dificultades respiratorias",
+            "inflamación del páncreas",
+            "inflamación alérgica del riñón"
+        ],
+        "no_conocidos": [
+            "disminución de la visión o dolor en los ojos"
+        ]
+    },
+    "responsable_fabricacion": {
+        "empresa": "Glenmark Pharmaceuticals s.r.o.",
+        "direccion": "Fibichova 143, 566 17 Vysoke Myto, Republica Checa"
+    },
+    "ultima_actualización": "abril 2024"
+}

@@ -1,0 +1,56 @@
+{
+    "medicamento": "Apremilast Tarbis",
+    "principio_activo": ["apremilast"],
+    "indicaciones": [
+      "Artritis psoriásica activa",
+      "Psoriasis en placas crónica de moderada a grave",
+      "Enfermedad de Behçet"
+    ],
+    "edad_mínima": 18,
+    "contraindicaciones": [
+      "Alergia a apremilast",
+      "Embarazo"
+    ],
+    "embarazo": false,
+    "via_administracion": "oral",
+    "efectos_adversos": {
+      "muy_frecuentes": [
+        "Diarrea",
+        "Náuseas",
+        "Dolor de cabeza",
+        "Infecciones del tracto respiratorio superior"
+      ],
+      "frecuentes": [
+        "Tos",
+        "Dolor de espalda",
+        "Vómitos",
+        "Cansancio",
+        "Dolor de estómago",
+        "Pérdida de apetito",
+        "Deposiciones frecuentes",
+        "Dificultad para dormir",
+        "Indigestión o ardor de estómago",
+        "Bronquitis",
+        "Resfriado común",
+        "Depresión",
+        "Migraña",
+        "Dolor de cabeza tensional"
+      ],
+      "poco_frecuentes": [
+        "Erupción",
+        "Urticaria",
+        "Pérdida de peso",
+        "Reacción alérgica",
+        "Sangrado en el intestino o en el estómago",
+        "Ideación o comportamiento suicida"
+      ],
+      "no_conocidos": [
+        "Reacción alérgica graves"
+      ]
+    },
+    "responsable_fabricacion": {
+      "empresa": "Amarox Pharma B.V.",
+      "direccion": "Rouboslaan 32, Voorschoten, 2252TR, Países Bajos"
+    },
+    "ultima_actualización": "agosto 2024"
+  }

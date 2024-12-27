@@ -1,0 +1,55 @@
+{
+  "medicamento": "Daperin",
+  "principio_activo": [
+    "dapagliflozina"
+  ],
+  "indicaciones": [
+    "Diabetes tipo 2",
+    "Insuficiencia cardiaca",
+    "Enfermedad renal cronica"
+  ],
+  "edad_minima": 10,
+  "contraindicaciones": [
+    "alergia a dapagliflozina"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "disminucion de los niveles de azucar en sangre"
+    ],
+    "frecuentes": [
+      "infeccion del tracto urinario",
+      "infecciones genitales",
+      "dolor de espalda",
+      "mayor cantidad de orina",
+      "cambios en los niveles de colesterol o lípidos en la sangre",
+      "aumentos en la cantidad de glóbulos rojos en sangre",
+      "disminuciones en el aclaramiento renal de creatinina",
+      "mareos",
+      "erupcion"
+    ],
+    "poco_frecuentes": [
+      "deshidratacion",
+      "sed",
+      "estrenimiento",
+      "despertares nocturnos por necesidad de orinar",
+      "sequedad de boca",
+      "disminucion de peso",
+      "aumento en la creatinina",
+      "aumento en la urea",
+      "inflamación de los riñones",
+      "angioedema",
+      "cetoacidosis diabética",
+      "fascitis necrosante del perineo"
+
+
+    ],
+    "no_conocidos": []
+  },
+  "responsable_fabricacion": {
+    "empresa": "PharmaPath S.A.",
+    "direccion": "28is Oktovriou 1, Agia Varvara, 123 51, Grecia"
+  },
+  "ultima_actualizacion": "Agosto 2024"
+}

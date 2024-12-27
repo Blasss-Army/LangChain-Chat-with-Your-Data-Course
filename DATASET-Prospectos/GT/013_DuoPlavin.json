@@ -1,0 +1,78 @@
+{
+  "medicamento": "DuoPlavin",
+  "principio_activo": [
+    "clopidogrel", 
+    "acido acetilsalicilico"
+  ],
+  "indicaciones": [
+    "Sindrome coronario agudo sin elevacion del segmento ST",
+    "infarto agudo de miocardio con elevacion del segmento ST"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "Hipersensibilidad a los principios activos",
+    "Insuficiencia hepatica grave",
+    "Hemorragia patologica activa",
+    "Hipersensibilidad a antiinflamatorios no esteroideos",
+    "Insuficiencia renal grave",
+    "Tercer trimestre del embarazo"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "diarrea",
+      "dolor abdominal",
+      "indigestion",
+      "ardor"
+    ],
+    "poco_frecuentes": [
+      "dolor de cabeza",
+      "ulcera de estomago",
+      "vomitos",
+      "nauseas",
+      "estreñimiento",
+      "exceso de gases en el estómago o intestino",
+      "erupciones",
+      "picor",
+      "mareo",
+      "sensación de hormigueo y entumecimiento",
+      "vertigo",
+      "aumento de las mamas en los varones",
+      "ictericia",
+      "ardor de estómago y/o esófago",
+      "dolor abdominal grave con o sin dolor de espalda",
+      "fiebre",
+      "dificultad para respirar, en ocasiones asociada a tos",
+      "reacciones alérgicas generalizadas",
+      "hinchazón de la boca",
+      "ampollas en la piel",
+      "alergia en la piel",
+      "estomatitis",
+      "disminución de la presión arterial",
+      "confusión",
+      "alucinaciones",
+      "dolor articular",
+      "dolor muscular",
+      "cambios en el sabor o pérdida del gusto de las comidas",
+      "inflamación de los vasos pequeños"
+    ],
+    "no_conocidos": [
+      "úlcera perforada",
+      "zumbido en los oídos",
+      "pérdida de audición",
+      "reacciones alérgicas súbitas y con peligro para la vida o reacciones de hipersensibilidad con dolor de pecho o dolor abdominal",
+      "enfermedad del riñón",
+      "azúcar bajo en sangre",
+      "gota",
+      "disminución del número de células rojas en la sangre",
+      "hinchazón"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Sanofi Winthrop Industrie",
+    "direccion": "1, Rue de la Vierge, Ambarès & Lagrave, F-33565 Carbon Blanc cedex, Francia"
+  },
+  "ultima_actualizacion": ""
+}

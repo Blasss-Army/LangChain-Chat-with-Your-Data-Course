@@ -1,0 +1,32 @@
+{
+  "medicamento": "Ketoconazol Abamed",
+  "principio_activo": ["Ketoconazol"],
+  "indicaciones": [
+    "Dermatitis seborreica",
+    "Pityriasis versicolor",
+    "Pityriasis capitis"
+  ],
+  "edad_minima": "",
+  "contraindicaciones": [
+    "alergico al ketoconazol"
+  ],
+  "embarazo": false,
+  "via_administracion": "cutanea",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [],
+    "poco_frecuentes": [
+      "sensacion de quemazon en la piel",
+      "picor en el lugar de aplicacion",
+      "eccema localizado",
+      "cabellos grasos o secos",
+      "decoloracion del cabello"
+    ],
+    "no_conocidos": []
+  },
+  "responsable_fabricacion": {
+    "empresa": "Laboratorios Feltor",
+    "direccion": "Poligono Industrial Moli de les Planes, c/ Roques Blanques 3-5, 08470 -Sant Celoni, (Barcelona)"
+  },
+  "ultima_actualizacion": "agosto 2013"
+}

@@ -1,0 +1,63 @@
+{
+  "medicamento": "Zedilarf",
+  "principio_activo": [
+    "dapagliflozina"
+  ],
+  "indicaciones": [
+    "Diabetes tipo 2",
+    "Insuficiencia cardiaca",
+    "Enfermedad renal cronica"
+  ],
+  "edad_minima": 10,
+  "contraindicaciones": [
+    "alergia a dapagliflozina"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "disminucion de los niveles de azucar en sangre (hipoglucemia)",
+      "Escalofríos",
+    "Sudoración",
+    "Sensación de gran ansiedad",
+    "Latido cardíaco rápido",
+    "Sensación de hambre",
+    "Dolor de cabeza",
+    "Alteraciones de la visión",
+    "Cambio del estado de ánimo",
+    "Sensación de confusión"
+    ],
+    "frecuentes": [
+      "Infección del tracto urinario",
+    "Infecciones genitales (candidiasis)",
+    "Dolor de espalda",
+    "Mayor cantidad de orina de lo normal",
+    "Necesidad de orinar más frecuentemente",
+    "Cambios en los niveles de colesterol o lípidos en la sangre",
+    "Aumentos en la cantidad de glóbulos rojos en sangre",
+    "Disminuciones en el aclaramiento renal de creatinina",
+    "Mareos",
+    "Erupción"
+    ],
+    "poco_frecuentes": [
+      "Pérdida excesiva de líquidos (deshidratación)",
+    "Sed",
+    "Estreñimiento",
+    "Despertares nocturnos por necesidad de orinar",
+    "Sequedad de boca",
+    "Disminución de peso",
+    "Aumento en la creatinina",
+    "Aumento en la urea",
+    "Cetoacidosis diabética",
+    "Angioedema",
+    "Fascitis necrosante del perineo (gangrena de Fournier)",
+    "Inflamación de los riñones (nefritis tubulointersticial)"
+    ],
+    "no_conocidos": []
+  },
+  "responsable_fabricacion": {
+    "empresa": "PharmaPath S.A.",
+    "direccion": "28is Oktovriou 1, Agia Varvara, 123 51, Grecia"
+  },
+  "ultima_actualizacion": "Agosto 2024"
+}

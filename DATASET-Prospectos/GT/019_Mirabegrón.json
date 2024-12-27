@@ -1,0 +1,59 @@
+{
+  "medicamento": "Mirabegron Teva",
+  "principio_activo": ["mirabegron"],
+  "indicaciones": [
+    "vejiga hiperactiva"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia a mirabegron",
+    "presion arterial muy alta no controlada"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "taquicardia",
+      "infeccion de las vias urinarias",
+      "nauseas",
+      "estrenimiento",
+      "dolor de cabeza",
+      "diarrea",
+      "mareo"
+    ],
+    "poco_frecuentes": [
+      "cistitis",
+      "palpitaciones",
+      "infeccion vaginal",
+      "dispepsia",
+      "gastritis",
+      "hinchazon de las articulaciones",
+      "prurito vulvovaginal",
+      "aumento de la presion arterial",
+      "aumento de las enzimas hepaticas",
+      "urticaria",
+      "erupción", 
+      "erupción macular", 
+      "erupción",
+      "papular", 
+      "prurito",
+      "edema de párpados",
+      "edema de labios",
+      "angioedema",
+      "púrpura",
+      "vasculitis leucocitoclástica",
+      "retención urinaria",
+      "crisis hipertensiva"
+    ],
+    "no_conocidos": [
+      "insomnio",
+      "confusion"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Pharmadox Healthcare Limited",
+    "direccion": "Kw20a Kordin Industrial Park, Paola, PLA 3000, Malta"
+  },
+  "ultima_actualizacion": "julio 2024"
+}

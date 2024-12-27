@@ -1,0 +1,68 @@
+{
+  "medicamento": "Tadalafilo Farmalter",
+  "principio_activo": ["tadalafilo"],
+  "indicaciones": [
+    "disfuncion erectil"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia a tadalafilo",
+    "uso de nitratos",
+    "enfermedad grave de corazon",
+    "ataque cardiaco reciente",
+    "accidente cerebrovascular reciente",
+    "tension arterial baja",
+    "tension alta no controlada",
+    "perdida de vision por NAION",
+    "uso de riociguat"
+  ],
+  "embarazo": false,
+  "via_administracion": "comprimidos bucodispersables",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "dolor de cabeza",
+      "dolor de espalda",
+      "dolores musculares",
+      "dolor en los brazos y en las piernas",
+      "enrojecimiento de la cara",
+      "congestion nasal",
+      "indigestion"
+    ],
+    "poco_frecuentes": [
+      "mareo",
+      "dolor de estomago",
+      "malestar",
+      "vomitos",
+      "reflujo",
+      "vision borrosa",
+      "dolor de ojos",
+      "dificultad para respirar",
+      "presencia de sangre en la orina",
+      "ereccion prolongada",
+      "palpitaciones",
+      "pulso acelerado",
+      "presion arterial alta",
+      "presion arterial baja",
+      "sangrado nasal",
+      "zumbido de oidos",
+      "hinchazon de las manos, pies o tobillos",
+      "sensacion de cansancio",
+	  "desvanecimiento",
+	  "convulsiones y pérdida pasajera de memoria",
+	  "hinchazón de los párpados",
+	  "ojos rojos", 
+      "disminución o pérdida repentina de la audición",
+	  "urticaria",
+	  "sangrado en el pene",
+	  "presencia de sangre en el semen y aumento de la sudoración" 
+    ],
+    "no_conocidos": [
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Laboratorios Alter, S.A.",
+    "direccion": "C/ Mateo Inurria, 30, 28036 Madrid, Espana"
+  },
+  "ultima_actualizacion": "julio 2024"
+}

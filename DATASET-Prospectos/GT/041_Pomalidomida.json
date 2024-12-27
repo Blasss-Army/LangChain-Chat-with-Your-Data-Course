@@ -1,0 +1,86 @@
+{
+  "medicamento": "Pomalidomida Teva",
+  "principio_activo": ["pomalidomida"],
+  "indicaciones": [
+    "mieloma múltiple"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "embarazo", "mujeres con capacidad de gestación",
+	"paciente varones incapaces de seguir o cumplir las medidas anticonceptivas requeridas",
+	"hipersensibilidad al principio activo"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+						"Dificultad respiratoria (disnea)",
+						"Infección de los pulmones (neumonía y bronquitis)",
+						"Infecciones en la nariz, senos paranasales y garganta causadas por bacterias o virus",
+						"Síntomas de tipo gripal (gripe)",
+						"Recuento bajo de glóbulos rojos, lo que puede producir anemia que da lugar a cansancio y debilidad",
+						"Niveles bajos de potasio en sangre (hipopotasemia), que puede causar debilidad, calambres y dolores musculares, palpitaciones, hormigueo o entumecimiento, disnea y cambios de humor",
+						"Niveles altos de azúcar en sangre",
+						"Latido cardiaco rápido e irregular (fibrilación auricular)",
+						"Pérdida de apetito",
+						"Estreñimiento, diarrea o náuseas",
+						"Vómitos",
+						"Dolor abdominal",
+						"Falta de energía",
+						"Dificultad para conciliar o mantener el sueño",
+						"Mareo, temblor",
+						"Espasmos musculares, debilidad muscular",
+						"Dolor de huesos, dolor de espalda",
+						"Entumecimiento, hormigueo o sensación de escozor en la piel, dolor de manos o pies (neuropatía sensitiva periférica)",
+						"Hinchazón generalizada que incluye hinchazón de brazos y piernas",
+						"Erupciones cutáneas",
+						"Infección de las vías urinarias, que puede causar una sensación de escozor al orinar o la necesidad de orinar con más frecuencia"
+    ],
+    "frecuentes": [
+					"Caída",
+					"Sangrado en el interior del cráneo",
+					"Menor capacidad para mover o sentir (sensibilidad) en las manos, pies y piernas debido a un daño neurológico (neuropatía sensitivomotora periférica)",
+					"Entumecimiento, picor u hormigueo en la piel (parestesia)",
+					"Sensación de que la cabeza le da vueltas, lo que le dificulta estar de pie y moverse con normalidad",
+					"Hinchazón causada por retención de líquidos",
+					"Habones (urticaria)",
+					"Picor en la piel",
+					"Herpes zóster",
+					"Ataque al corazón (dolor de pecho que se extiende a los brazos, el cuello y la mandíbula, sensación de sudoración y dificultad respiratoria, sensación de náuseas o vómitos)",
+					"Dolor torácico, infección en el pecho",
+					"Aumento de la presión arterial",
+					"Una reducción del número de glóbulos rojos y blancos y de las plaquetas al mismo tiempo (pancitopenia) que le hará más propenso a las hemorragias y a los moratones, Puede sentirse cansado y débil, así como tener dificultades para respirar, Tendrá también una mayor predisposición a coger infecciones",
+					"Disminución del número de linfocitos (un tipo de glóbulos blancos) causada a menudo por una infección (linfopenia)",
+					"Niveles bajos de magnesio en sangre (hipomagnesemia), que pueden producir cansancio, debilidad generalizada, calambres musculares e irritabilidad y que pueden producir niveles bajos 70de calcio en sangre (hipocalcemia), lo que puede causar entumecimiento u hormigueo en las manos, pies o labios, calambres musculares, debilidad muscular, aturdimiento, confusión",
+					"Niveles bajos de fosfato en sangre (hipofosfatemia), que pueden producir debilidad muscular, irritabilidad o confusión",
+					"Niveles altos de calcio en sangre (hipercalcemia), que pueden ralentizar los reflejos y producir debilidad de los músculos esqueléticos",
+					"Niveles altos de potasio en sangre, que pueden producir un ritmo cardiaco anormal",
+					"Niveles bajos de sodio en sangre, que pueden producir cansancio y confusión, contracciones musculares, ataques (convulsiones epilépticas) o coma",
+					"Niveles altos de ácido úrico en sangre, que pueden producir un tipo de artritis llamado gota",
+					"Presión arterial baja, que puede causar mareo o desmayo",
+					"Dolor o sequedad en la boca",
+					"Cambios en el sabor de las cosas",
+					"Abdomen hinchado",
+					"Confusión",
+					"Sentirse decaído (ánimo depresivo)",
+					"Pérdida de la conciencia, desmayo",
+					"Opacidad en el ojo (catarata)",
+					"Daño en los riñones",
+					"Incapacidad para orinar",
+					"Resultados anómalos en las pruebas de la función hepática",
+					"Dolor en la pelvis",
+					"Pérdida de peso"
+    ],
+    "poco_frecuentes": [
+						"Ictus",
+						"Inflamación del hígado (hepatitis) que puede producir picor en la piel, coloración amarillenta en la piel y en la parte blanca de los ojos (ictericia), heces de color claro, orina de color oscuro y dolor abdominal",
+						"La degradación de las células tumorales tiene como resultado la liberación de compuestos tóxicos en el torrente sanguíneo (síndrome de lisis tumoral). Puede derivar en problemas renales",
+						"Glándula tiroidea poco activa, lo que puede causar síntomas tales como cansancio, letargo, debilidad muscular, frecuencia cardiaca lenta y aumento de peso"],
+    "no_conocidos": ["Rechazo de trasplante de órganos sólidos (tales como corazón o hígado)"]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Balkanpharma-Dupnitsa AD",
+    "direccion": "3 Samokovsko Shosse Str. Dupnitsa 2600, Bulgaria"
+  },
+  "ultima_actualizacion": ""
+}

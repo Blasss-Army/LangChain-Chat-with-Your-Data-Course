@@ -1,0 +1,71 @@
+{
+  "medicamento": "Selincro",
+  "principio_activo": ["nalmefeno"],
+  "indicaciones": [
+    "dependencia del alcohol"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "hipersensibilidad al principio activo",
+    "tratamiento con agonistas opioides",
+    "adiccion a opiaceos",
+    "sintomas agudos de abstinencia de opiaceos",
+    "uso reciente de opiaceos",
+    "insuficiencia hepatica grave",
+    "insuficiencia renal grave",
+    "sindrome de abstinencia del alcohol agudo"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "insomnio",
+      "mareo",
+      "cefalea",
+      "nauseas"
+    ],
+    "frecuentes": [
+      "apetito disminuido",
+      "trastorno del sueno",
+      "estado confusional",
+      "inquietud",
+      "libido disminuida",
+      "somnolencia",
+      "temblor",
+      "alteracion de la atencion",
+      "parestesia",
+      "hipoestesia",
+      "taquicardia",
+      "palpitaciones",
+      "vomitos",
+      "boca seca",
+      "diarrea",
+      "hiperhidrosis",
+      "espasmos musculares",
+      "fatiga",
+      "astenia",
+      "malestar general",
+      "sensacion anormal",
+      "peso disminuido"
+    ],
+    "poco_frecuentes": [
+      "alucinacion",
+      "disociacion"
+    ],
+    "no_conocidos": [
+      "alteracion visual",
+      "angioedema",
+      "urticaria",
+      "prurito",
+      "erupcion",
+      "eritema",
+      "mialgia",
+      "priapismo"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "H. Lundbeck A/S",
+    "direccion": "Ottiliavej 9, DK-2500 Valby, Dinamarca"
+  },
+  "ultima_actualizacion": ""
+}

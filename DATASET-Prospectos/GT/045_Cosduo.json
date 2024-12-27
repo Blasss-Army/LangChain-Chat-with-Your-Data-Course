@@ -1,0 +1,112 @@
+{
+  "medicamento": "Cosduo",
+  "principio_activo": [
+    "dorzolamida",
+    "timolol"
+  ],
+  "indicaciones": [
+    "glaucoma"
+  ],
+  "edad_minima": 0,
+  "contraindicaciones": [
+	"alergia a la dorzolamida o al timolol",
+    "asma",
+    "bronquitis obstructiva cronica grave",
+    "insuficiencia cardiaca",
+    "alteraciones del ritmo cardiaco",
+    "enfermedad del rinon graves",
+    "acidosis hipercloremica"
+  ],
+  "embarazo": false,
+  "via_administracion": "cutaneo",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "Quemazon y escozor en los ojos",
+      "Alteracion del sabor"
+    ],
+    "frecuentes": [
+      "Enrojecimiento en y alrededor del ojo(s)",
+      "Lagrimeo o picor en el ojo(s)",
+      "Erosion de la cornea",
+      "Inflamacion y/o irritacion en y alrededor del ojo(s)",
+      "Sensacion de tener algo en el ojo",
+      "Disminucion de la sensibilidad de la cornea",
+      "Dolor en el ojo",
+      "Ojos secos",
+      "Vision borrosa",
+      "Dolor de cabeza",
+      "Sinusitis",
+      "Nauseas",
+      "Debilidad/cansancio y fatiga"
+    ],
+    "poco_frecuentes": [
+      "Mareos",
+      "Depresion",
+      "Inflamacion del iris",
+      "Alteraciones de la vision",
+      "Disminucion de los latidos cardiacos",
+      "Desfallecimiento",
+      "Dificultad para respirar",
+      "Indigestion",
+      "Piedras en el rinon",
+	  "Lupus eritematoso sistémico",
+		"Hormigueo o entumecimiento de las manos o los pies",
+		"Insomnio",
+		"Pesadillas",
+		"Pérdida de memoria",
+		"Un incremento en los signos y síntomas de mistenia gravis",
+		"Disminución del deseo sexual",
+		"Accidente cerebro vascular",
+		"Miopía transitoria que remite al cesar la terapia ",
+		"Desprendimiento de la capa de debajo de la retina que contiene vasos sanguíneos después de la cirugía de filtración que puede causar alteraciones visuales",
+		"Párpado caído",
+		"Visión doble",
+		"Costras en el párpado",
+		"Hinchazón de la córnea",
+		"Presión baja en el ojo",
+		"Sonidos de campanilleo en el oído",
+		"Presión arterial baja",
+		"Cambios en el ritmo o velocidad con la que late el corazón",
+		"Insuficiencia cardiaca congestiva",
+		"Edema",
+		"Isquemia cerebral",
+		"Dolor del pecho",
+		"Latidos cardíacos fuertes que pueden ser rápidos o irregulares",
+		"Ataque cardiaco",
+		"Fenómeno de Raynaud, manos y pies hinchados o fríos y disminución de la circulación en sus brazos y piernas",
+		"Calambres en las piernas y/o dolor de pierna cuando se camina",
+		"Dificultad para respirar",
+		"Insuficiencia respiratoria",
+		"Rinitis",
+		"Sangrado de nariz",
+		"Constricción de las vías respiratorias en los pulmones",
+		"Tos",
+		"Irritación de la garganta",
+		"Boca seca",
+		"Diarrea",
+		"Dermatitis de contacto",
+		"Pérdida de pelo",
+		"Erupción cutánea con apariencia de color blanco plateado",
+		"Enfermedad de Peyronie",
+		"Reacciones de tipo alérgico tales como erupción cutánea, ronchas, picor, en raros casos posible, hinchazón de los labios, ojos y boca, sibilancias, o reacciones cutáneas graves"
+    ],
+    "no_conocidos": [
+      "Niveles de glucosa bajos en sangre",
+      "Insuficiencia cardiaca",
+      "Un tipo de trastorno del ritmo cardiaco",
+      "Dolor abdominal",
+      "Vomitos",
+      "Dolor muscular no causado por el ejercicio",
+      "Disfuncion sexual",
+      "Alucinaciones",
+      "Sensacion de cuerpo extrano en el ojo",
+      "Aumento de la frecuencia cardiaca",
+      "Aumento de la tension arterial"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Pharmathen S.A.",
+    "direccion": "6, Dervenakion Str. 15351 Pallini Attikis, Grecia"
+  },
+  "ultima_actualizacion": "Enero 2023"
+}

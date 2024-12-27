@@ -1,0 +1,28 @@
+{
+  "medicamento": "GalliaPharm",
+  "principio_activo": ["cloruro de germanio (68Ge)", "cloruro de galio (68Ga)"],
+  "indicaciones": [
+    ""
+  ],
+  "edad_minima": 0,
+  "contraindicaciones": [
+    "hipersensibilidad al principio activo"
+  ],
+  "embarazo": false,
+  "via_administracion": "",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+    ],
+    "frecuentes": [
+    ],
+    "poco_frecuentes": [],
+    "no_conocidos": [
+	  "induccion de cancer",
+      "anomalias congenitas"]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Eckert & Ziegler Radiopharma GmbH",
+    "direccion": "Robert-Rössle-Str. 10 13125 Berlín Alemania"
+  },
+  "ultima_actualizacion": ""
+}

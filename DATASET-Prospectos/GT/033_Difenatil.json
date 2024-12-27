@@ -1,0 +1,38 @@
+{
+  "medicamento": "Difenatil",
+  "principio_activo": [
+    "paracetamol"
+  ],
+  "indicaciones": [
+    "dolor ocasional",
+    "estados febriles"
+  ],
+  "edad_minima": 15,
+  "contraindicaciones": [
+    "alergia al paracetamol"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [],
+    "poco_frecuentes": [
+      "malestar",
+      "bajada de la tension",
+      "aumento de los niveles de transaminasas en sangre",
+      "Enfermedades renales", 
+      "Orina turbia", 
+      "Dermatitis alérgica (erupción cutánea)", 
+      "Ictericia", 
+      "Alteraciones sanguíneas (agranulocitosis, leucopenia, neutropenia, anemia hemolítica)", 
+      "Hipoglucemia", 
+      "reacciones graves en la piel"
+    ],
+    "no_conocidos": []
+  },
+  "responsable_fabricacion": {
+    "empresa": "Laboratorios Normon, S.A.",
+    "direccion": "Ronda de Valdecarrizo, 6 - 28760 Tres Cantos - Madrid (ESPANA)"
+  },
+  "ultima_actualizacion": "Noviembre 2024"
+}

@@ -1,0 +1,60 @@
+{
+  "medicamento": "Cardyl",
+  "principio_activo": ["atorvastatina"],
+  "indicaciones": [
+    "reducción de lípidos como el colesterol y los triglicéridos"
+  ],
+  "edad_minima": 10,
+  "contraindicaciones": [
+    "insuficiencia respiratoria grave",
+	"ácido fusídico",
+	"ictus",
+	"problemas de riñón",
+	"hipotiroidismo",
+	"dolores musculares repetidos o injustificados"
+  ],
+  "embarazo": false,
+  "via_administracion": "",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+    ],
+    "frecuentes": ["inflamación de las fosas nasales, dolor de garganta, sangrado por la nariz",
+	               "reacciones alérgicas",
+				   "aumentos de os niveles de azúcar en sangre",
+				   "dolor de cabeza",
+				   "náuseas, estreñimiento, gases, indigestión, diarrea",
+				   "dolor en las articulaciones, dolor en los músculos, dolor de espalda"
+    ],
+    "poco_frecuentes": ["reacción alérgica grave que provoca hinchazón de la cara",
+						"enfermedad grave con descamación severa e inflamación de la piel",
+						"debilidad en los músculos",
+						"hemorragias o hematomas inesperados o inusuales",
+						"sindrome similar al lupus",
+						"anorexia, ganancia de peso, disminución de los niveles de azucar en sangre",
+						"pesadillas, insomnio",
+						"mareo, entumecimiento u hormigueo en los dedos de las manos y de los pies, reducción de la sensibilidad al dolor o al tacto, cambios en el sentido del gusto, pérdida de memoria",
+						"visión borrosa",
+						"zumbido en los oidos o la cabeza",
+						"vómitos, eructos, dolor abdominal superior e inferior, pancreatitis",
+						"hepatitis",
+						"erupción, erupción en la piel y picazón, habones, caída del pelo",
+						"dolor de cuello, fatiga en los músculos",
+						"fatiga, sensación de malestar, debilidad, dolor en el pecho, inflamación, pespecialmente en los tobillos, aumento de la temperatura",
+						"pruebas de orina positivas para glóbulos blancos de la sangre",
+						"alteraciones de la vista",
+						"hemorragias o moratones no esperados",
+						"colestasis",
+						"lesión en el tendón",
+						"reacción alérgica",
+						"pérdida de audición",
+						"ginecomastia"],
+    "no_conocidos": ["debilidad muscular constante",
+					 "miastenia grave",
+					 "miastenia ocular"]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Pfizer Manufacturing Deutschland GmbH",
+    "direccion": "Betriebsstätte Freiburg Mooswaldallee 1 79090 Freiburg Alemania"
+  },
+  "ultima_actualizacion": "marzo 2023"
+}

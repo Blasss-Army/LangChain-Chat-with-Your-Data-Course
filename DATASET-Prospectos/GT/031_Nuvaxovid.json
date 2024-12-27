@@ -1,0 +1,57 @@
+{
+  "medicamento": "Nuvaxovid",
+  "principio_activo": [
+    "proteina de la espicula del SARS-CoV-2"
+  ],
+  "indicaciones": [
+    "COVID-19"
+  ],
+  "edad_minima": 12,
+  "contraindicaciones": [
+    "Hipersensibilidad al principio activo"
+  ],
+  "embarazo": false,
+  "via_administracion": "inyectable",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "cefalea",
+      "nauseas",
+      "vomitos",
+      "mialgia",
+      "artralgia",
+      "sensibilidad o dolor en el lugar de administracion de la inyeccion",
+      "fatiga",
+      "malestar general"
+    ],
+    "frecuentes": [
+      "enrojecimiento en el lugar de administracion de la inyeccion",
+      "hinchazon en el lugar de administracion de la inyeccion",
+      "fiebre",
+      "dolor en las extremidades"
+    ],
+    "poco_frecuentes": [
+      "linfadenopatia",
+      "hipertension",
+      "erirema",
+      "erupcion cutanea",
+      "urticaria",
+      "prurito",
+      "enrojecimiento de la piel",
+      "prurito donde se administra la inyeccion",
+      "escalofrios",
+      "calor en el lugar de la inyeccion"
+    ],
+    "no_conocidos": [
+      "anafilaxia",
+      "parestesia",
+      "hipoestesia",
+      "miocarditis",
+      "pericarditis"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Novavax CZ a.s.",
+    "direccion": "Bohumil 138 Jevany, 28163 Czechia"
+  },
+  "ultima_actualizacion": ""
+}

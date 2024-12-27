@@ -1,0 +1,40 @@
+{
+  "medicamento": "Linagliptina Medochemie",
+  "principio_activo": ["linagliptina"],
+  "indicaciones": [
+    "diabetes tipo 2"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia a linagliptina"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "hipoglucemia"
+    ],
+    "frecuentes": [
+      "niveles elevados de la enzima lipasa en sangre"
+    ],
+    "poco_frecuentes": [
+      "hipersensibilidad",
+      "exantema",
+      "ronchas",
+      "hinchazón de la cara, los labios, la lengua y la garganta",
+      "pancreatitis",
+      "inflamacion de la nariz o de la garganta",
+      "tos",
+      "estrenimiento",
+      "niveles elevados de la enzima amilasa en sangre"
+    ],
+    "no_conocidos": [
+      "hiperreactividad bronquial"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Medochemie Ltd.",
+    "direccion": "Factory Az, Agios Athanassios Industrial Area, Michali Irakleous 2, Agios Athanasios, 4101 Limassol, Chipre"
+  },
+  "ultima_actualizacion": "Junio 2024"
+}

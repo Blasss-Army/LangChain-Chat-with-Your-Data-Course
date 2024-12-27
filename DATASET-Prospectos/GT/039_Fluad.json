@@ -1,0 +1,70 @@
+{
+  "medicamento": "Fluad",
+  "principio_activo": [
+    "Antigenos de superficie del virus de la gripe (hemaglutinina y neuraminidasa)"
+  ],
+  "indicaciones": [
+    "gripe"
+  ],
+  "edad_minima": 50,
+  "contraindicaciones": [
+    "Hipersensibilidad al principio_activo",
+    "Hipersensibilidad al o a posibles trazas, como ovoalbúmina, kanamicina y sulfato de neomicina, formaldehído, bromuro de cetiltrimetilamonio (CTAB) e hidrocortisona.",
+    "Reaccion alergica grave a una vacuna antigripal anterior"
+  ],
+  "embarazo": false,
+  "via_administracion": "inyectable",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "Cefalea",
+      "Mialgia artralgia",
+      "dolor a la palpación en la zona de inyección", 
+      "fatiga",
+      "Dolor articular (artralgia)",
+      "Dolor muscular (mialgia)"
+    ],
+    "frecuentes": [
+
+      "Diarrea",
+      "Nauseas",
+      "Perdida del apetito",
+      "Cardenales en el lugar de inyeccion (equimosis)",
+      "escalofrios",
+      "eritema",
+      "induracion",
+      "Sintomas de tipo gripal",
+      "Fiebre (>=38 degC)"
+    ],
+    "poco_frecuentes": [
+      "Vomitos",
+      "Hinchazon de las glandulas del cuello, la axila o la ingle (linfadenopatia)"
+    ],
+    "no_conocidos": [
+      "Trombocitopenia",
+      "Reaccion alergicas incluido shock anafiláctio",
+      "anafilaxia",
+      "Encefalomielitis", 
+"síndrome de Guillain-Barré", 
+"convulsiones", 
+"neuritis", 
+"neuralgia", 
+"parestesia", 
+"síncope", 
+"presíncope",
+"Vasculitis",
+"Reacciones cutáneas generalizadas incluido eritema multiforme", 
+"eritema", 
+"urticaria", "prurito" ,
+"erupción inespecífica", 
+"Debilidad muscular", "dolor en unaextremidad",
+"Hinchazónextensa del miembro vacunado que dura más de una semana",
+"reacción similar a la celulitis en el lugar de inyección", 
+"astenia", "malestar general", "pirexia"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Seqirus Netherlands B.V.",
+    "direccion": "Paasheuvelweg 28, 1105 BJ Amsterdam, Paises Bajos"
+  },
+  "ultima_actualizacion": ""
+}

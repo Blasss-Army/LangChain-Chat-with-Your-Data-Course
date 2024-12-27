@@ -1,0 +1,39 @@
+{
+    "medicamento": "ADZYNMA",
+    "principio_activo": ["rADAMTS13"],
+    "indicaciones": [
+      "deficiencia de ADAMTS13 en pacientes pediátricos y adultos con púrpura trombocitopénica trombótica congénita (PTTc)"
+    ],
+    "edad_minima": 0,
+    "contraindicaciones": [
+      "Hipersensibilidad potencialmente mortal al principio activo"
+    ],
+    "embarazo": false,
+    "via_administracion": "inyectable",
+    "efectos_adversos": {
+      "muy_frecuentes": [
+        "Cefalea",
+        "Diarrea",
+        "Mareo",
+        "Infección del tracto respiratorio superior",
+        "Náuseas",
+        "Migraña"
+      ],
+      "frecuentes": [
+        "Trombocitosis",
+        "Somnolencia",
+        "Estreñimiento",
+        "Distensión abdominal",
+        "Astenia",
+        "Sensación de calor",
+        "Actividad de ADAMTS13 anormal"
+      ],
+      "poco_frecuentes": [],
+      "no_conocidos": []
+    },
+    "responsable_fabricacion": {
+      "empresa": "Takeda Manufacturing Austria AG",
+      "direccion": "Industriestrasse 67, 1221 Viena, Austria"
+    },
+    "ultima_actualizacion": ""
+  }

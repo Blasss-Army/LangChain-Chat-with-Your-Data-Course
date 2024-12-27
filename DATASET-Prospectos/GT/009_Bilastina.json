@@ -1,0 +1,72 @@
+{
+  "medicamento": "Bilastina Sandoz Care",
+  "principio_activo": [
+    "bilastina"
+  ],
+  "indicaciones": [
+    "rinoconjuntivitis alérgica",
+    "urticaria"
+  ],
+  "edad_mínima": 12,
+  "contraindicaciones": [
+    "Alergia a bilastina"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "Cefalea",
+      "Somnolencia"
+    ],
+    "poco_frecuentes": [
+      "Alteraciones del electrocardiograma (ECG)",
+      "Cambios en la función del hígado",
+      "Mareo",
+      "Dolor de estómago",
+      "Cansancio",
+      "Aumento del apetito",
+      "Latido cardiaco irregular",
+      "Aumento de peso",
+      "Náusea",
+      "Ansiedad",
+      "Nariz seca o molestias en la nariz",
+      "Dolor abdominal",
+      "Diarrea",
+      "Gastritis",
+      "Vértigo",
+      "Sensación de debilidad",
+      "Sed",
+      "Disnea",
+      "Boca seca",
+      "Indigestión",
+      "Picor",
+      "Herpes labial",
+      "Fiebre",
+      "Tinnitus",
+      "Dificultad para dormir",
+      "Cambios en la función del riñón",
+      "Aumento de las grasas en la sangre",
+      "irritación del ojo",
+      "mareo",
+      "pérdida de consciencia",
+      "diarrea",
+      "náusea",
+      "hinchazón de los labios",
+      "eczema",
+      "urticaria",
+      "fatiga"
+    ],
+    "no_conocidos": [
+      "Palpitaciones",
+      "Taquicardia",
+      "Reacciones alérgicas graves",
+      "Vómitos"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Noucor Health, S.A.",
+    "direccion": "Avinguda del Camí Reial, 51-57, 08184, Palau-solità i Plegamans, España"
+  },
+  "ultima_actualización": "septiembre 2024"
+}

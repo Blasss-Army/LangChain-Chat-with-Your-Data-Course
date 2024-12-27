@@ -1,0 +1,52 @@
+{
+  "medicamento": "Olpam",
+  "principio_activo": ["carbidopa","levodopa"],
+  "indicaciones": [
+    "Parkinson"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia a carbidopa",
+    "alergia a levodopa",
+    "cancer de piel",
+    "lesiones sospechosas no examinadas",
+    "uso de IMAOs",
+    "glaucoma de angulo cerrado",
+    "trastorno mental grave",
+    "embarazo",
+    "lactancia"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "movimientos anormales",
+      "nauseas"
+    ],
+    "frecuentes": [],
+    "poco_frecuentes": [],
+    "no_conocidos": [
+      "desmayos",
+      "perdida de apetito",
+      "hipertension arterial",
+      "inflamacion de venas",
+      "vomitos",
+      "diarrea",
+      "cambio de coloracion en la orina",
+      "sudor o saliva",
+      "Fenómeno de encendido y apagado",
+      "mareos",
+      "somnolencia",
+      "suenos anormales",
+      "confusion",
+      "agitacion",
+      "dificultad para respirar",
+      "perdida de cabello"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Medochemie Ltd",
+    "direccion": "1-10 Constantinoupoleos Street, 3011 Limassol, Chipre"
+  },
+  "ultima_actualizacion": "junio 2024"
+}

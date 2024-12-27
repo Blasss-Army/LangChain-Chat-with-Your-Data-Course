@@ -1,0 +1,102 @@
+{
+  "medicamento": "Atorvastatina Davurgama",
+  "principio_activo": [
+    "atorvastatina"
+  ],
+  "indicaciones": [
+    "colesterol",
+    "triglicéridos",
+    "enfermedad cardiaca"
+  ],
+  "edad_mínima": 10,
+  "contraindicaciones": [
+    "Alergia a atorvastatina",
+    "enfermedad hepática",
+    "Resultados anómalos en tests hepaticos",
+    "Embarazo",
+    "Lactancia",
+    "Uso de glecaprevir/pibrentasvir"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "Inflamación de las fosas nasales",
+      "dolor de garganta",
+      "sangrado por la nariz",
+      "Reacciones alérgicas",
+      "Aumentos en los niveles de azúcar en la sangre",
+      "Dolor de cabeza",
+      "Náuseas",
+      "estreñimiento",
+      "gases",
+      "indigestión",
+      "diarrea",
+      "Dolor en las articulaciones",
+      "dolor en los músculos",
+      "dolor de espalda",
+      "funcionamiento anormal del hígado"
+    ],
+    "poco_frecuentes": [
+      "Anorexia",
+      "ganancia de peso",
+      "disminución de los niveles de azúcar en la sangre",
+      "Pesadillas",
+      "insomnio",
+      "Mareo",
+      "entumecimiento u hormigueo en los dedos de las manos y de los pies",
+      "reducción de la sensibilidad al dolor o al tacto",
+      "cambios en el sentido del gusto",
+      "pérdida de memoria",
+      "Visión borrosa",
+      "Zumbidos en los oídos y/o la cabeza",
+      "Vómitos",
+      "eructos",
+      "dolor abdominal superior e inferior",
+      "pancreatitis",
+      "Hepatitis",
+      "Erupción",
+      "erupción en la piel y picazón",
+      "habones",
+      "caída del pelo",
+      "Dolor de cuello",
+      "fatiga de los músculos",
+      "Fatiga",
+      "sensación de malestar",
+      "debilidad",
+      "dolor en el pecho",
+      "inflamación",
+      "edema",
+      "aumento de la temperatura",
+      "Pruebas de orina positivas para los glóbulos blancos de la sangre",
+      "Alteraciones en la vista",
+      "Hemorragias o moratones no esperados",
+      "Colestasis",
+      "Lesión en el tendón",
+      "Erupción de la piel o úlceras en la boca",
+      "Lesiones cutáneas de color púrpura",
+      "Reacción alergica grave",
+      "Enfermedad grave con descamación severa e inflamación de la piel",
+      "ampollas en la piel, boca, genitales y ojos",
+      "fiebre",
+      "Erupción cutánea con manchas de color rosa-rojo",
+      "Debilidad, sensibilidad, dolor o rotura muscular",
+      "coloración marrón rojiza de la orina ",
+      "Reacción alérgica grave",
+      "Pérdida de audición",
+      "Ginecomastia",
+      "Síndrome similar al lupus"
+    ],
+    "no_conocidos": [
+      "Debilidad muscular constante",
+      "Miastenia grave",
+      "Miastenia ocular"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Teva Pharma, S.L.U.",
+    "direccion": "Polígono Malpica, Calle C nº 4, 50016 Zaragoza, España"
+  },
+  "ultima_actualización": "Agosto 2024"
+}

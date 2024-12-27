@@ -1,0 +1,79 @@
+{
+  "medicamento": "Provisacor",
+  "principio_activo": ["rosuvastatina"],
+  "indicaciones": [
+    "colesterol alto",
+    "ateroesclerosis"
+  ],
+  "edad_minima": 6,
+  "contraindicaciones": [
+    "alergia al principio activo",
+    "embarazo",
+    "lactancia",
+    "enfermedad hepatica",
+    "problemas renales graves",
+    "dolores y calambres musculares repetidos o injustificados",
+    "uso de sofosbuvir/velpatasvir/voxilaprevir",
+    "uso de ciclosporina",
+	"si es de origen asiatico",
+	"si toma otros medicamentos llamados fibratos",
+	"si tiene o ha tenido miastemia",
+	"si ingiere grandes cantidades de alcohol",
+	"Si toma medicamentos para tratar la infección por VIH",
+	"Si está tomando o ha tomado en los últimos 7 días un medicamento llamado ácido fusídico",
+	"Si es mayor de 70 años",
+	"Si tiene insuficiencia respiratoria grave"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "dolor de cabeza",
+      "dolor de estomago",
+      "estrenimiento",
+      "nauseas",
+      "dolor muscular",
+      "debilidad",
+      "mareo",
+      "diabetes",
+	  "Un aumento de la cantidad de proteínas en orina"
+    ],
+    "poco_frecuentes": [
+      "urticaria",
+      "picor y otras reacciones cutaneas",
+	  "hinchazón de la cara, labios, lengua y/o garganta, dificultad para tragar y respirar, picor intenso de la piel (con ronchas)",
+	  "dolores o calambres musculares injustificados",
+      "Dolor intenso de estómago",
+      "Aumento de las enzimas hepáticas en sangre",
+      "Sangrado o aparición de cardenales con más facilidad de lo normal debido a un nivel bajo de plaquetas en la sangre",
+      "Síndrome que cursa con sintomatología similar al lupus",
+	  "Icteria",
+	  "Hepatitis",
+	  "Trazas de sangre en la orina",
+	  "lesion de los nervios de las piernas y brazos",
+	  "dolor en las articulaciones",
+	  "perdida de memoria",
+	  "aumento del tamaño de las mamas en hombres"
+    ],
+    "no_conocidos": [
+      "diarrea",
+      "tos",
+      "falta de aliento",
+      "edema",
+      "alteraciones del sueno",
+      "dificultades sexuales",
+      "depresion",
+      "problemas respiratorios",
+      "lesiones en los tendones",
+      "debilidad muscular constante",
+	  "miastenia grave",
+	  "miastenia ocular"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "AVARA REIMS PHARMACEUTICAL SERVICES",
+    "direccion": "Parc Industriel de la Pompelle, Chemin de Vrilly, 51100 Reims, Francia"
+  },
+  "ultima_actualizacion": "Agosto 2024"
+}

@@ -1,0 +1,69 @@
+{
+  "medicamento": "Rosuvastatina Teva",
+  "principio_activo": ["rosuvastatina"],
+  "indicaciones": [
+    "colesterol alto",
+    "ateroesclerosis"
+  ],
+  "edad_minima": 6,
+  "contraindicaciones": [
+    "alergia a rosuvastatina",
+    "embarazo",
+    "lactancia",
+    "enfermedad hepatica",
+    "problemas renales graves",
+    "dolores y calambres musculares repetidos o injustificados",
+    "uso de sofosbuvir/velpatasvir/voxilaprevir",
+    "uso de ciclosporina"
+  ],
+  "embarazo": false,
+  "via_administracion": "comprimidos recubiertos con pelicula",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "dolor de cabeza",
+      "dolor de estomago",
+      "estrenimiento",
+      "nauseas",
+      "dolor muscular",
+      "debilidad",
+      "mareo",
+      "diabetes mellitus"
+    ],
+    "poco_frecuentes": [
+      "urticaria",
+      "picor y otras reacciones cutaneas",
+	  "dolores o calambres musculares",
+	  "dolor intenso de estomago",
+	  "aumento de las enzimas hepáticas en sangre",
+	  "sangrado o aparición de cardenales con más facilidad",
+	  "Lupus",
+	  "Ictericia",
+	  "Hepatitis",
+	  "Trazas de sangre en orina",
+	  "Lesión de olos nervios de las piernas y brazos",
+	  "dolor en las articulaciones",
+	  "perdida de memoria",
+	  "aumento de a mama en hombres"
+    ],
+    "no_conocidos": [
+      "diarrea",
+      "tos",
+      "acortamiento de la respiracion",
+      "edema",
+      "alteraciones del sueno",
+      "dificultades sexuales",
+      "depresion",
+      "problemas respiratorios",
+      "lesiones en los tendones",
+      "debilidad muscular constante",
+      "miastenia grave",
+      "miastenia ocular"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Merckle GmbH",
+    "direccion": "Ludwig-Merckle-Strassee 3, D-89143 Blaubeuren, Alemania"
+  },
+  "ultima_actualizacion": "agosto 2024"
+}

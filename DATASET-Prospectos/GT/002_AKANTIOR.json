@@ -1,0 +1,59 @@
+{
+    "medicamento": "AKANTIOR",
+    "principio_activo": ["polihexanida"],
+    "indicaciones": [
+      "queratitis por Acanthamoeba"
+    ],
+    "edad_mínima": 12,
+    "contraindicaciones": [
+      "Hipersensibilidad al principio activo",
+      "necesidad urgente de cirugía ocular por queratitis avanzada por Acanthamoeba"
+    ],
+    "embarazo": false,
+    "via_administracion": "oftalmica",
+    "efectos_adversos": {
+      "muy_frecuentes": [
+        "Dolor ocular",
+        "Hiperemia ocular"
+      ],
+      "frecuentes": [
+        "Perforación corneal",
+        "Deficiencia visual",
+        "Queratitis ulcerosa",
+        "Defectos del epitelio corneal",
+        "Infiltrados corneales",
+        "Queratitis punteada",
+        "Lagrimeo",
+        "Hiperemia conjuntival",
+        "Inflamación ocular",
+        "Irritación ocular",
+        "Fotofobia",
+        "Papilas conjuntivales",
+        "Prurito ocular",
+        "Secreción ocular",
+        "Hinchazón ocular",
+        "Sensación de cuerpo extraño",
+        "Molestia ocular",
+        "Xeroftalmía",
+        "Conjuntivitis",
+        "Infección ocular",
+        "Empeoramiento del trastorno",
+        "Intolerancia al medicamento",
+        "Dolor en el lugar de aplicación",
+        "Molestia en el lugar de aplicación",
+        "Prurito en el lugar de aplicación",
+        "Defecto epitelial persistente",
+        "Toxicidad para diversos agentes",
+        "Necesidad de trasplante de córnea"
+      ],
+      "poco_frecuentes": [ "Calcificación corneal asociada al uso de colirios que contienen fosfatos en pacientes con córneas dañadas de forma significativa"
+      ],
+      "no_conocidos": []
+       
+    },
+    "responsable_fabricacion": {
+      "empresa": "SIFI S.p.A.",
+      "direccion": "Via Ercole Patti, 36 95025 Aci Sant'Antonio (CT) Italia"
+    },
+    "ultima_actualización": ""
+  }

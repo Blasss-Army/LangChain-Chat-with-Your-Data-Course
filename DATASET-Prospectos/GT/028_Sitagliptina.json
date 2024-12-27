@@ -1,0 +1,48 @@
+{
+  "medicamento": "Sitagliptina cinfa",
+  "principio_activo": [
+    "sitagliptina"
+  ],
+  "indicaciones": [
+    "diabetes mellitus tipo 2"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia a sitagliptina",
+    "pancreatitis",
+    "diabetes tipo 1",
+    "cetoacidosis diabetica",
+    "problemas de rinon"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "bajadas de azucar en sangre",
+      "nauseas",
+      "flatulencia",
+      "vomitos"
+    ],
+    "poco_frecuentes": [
+      "dolor de estomago",
+      "diarrea",
+      "estrenimiento",
+      "somnolencia"
+    ],
+    "no_conocidos": [
+      "problemas de rinon",
+      "vomitos",
+      "dolor en las articulaciones",
+      "dolor muscular",
+      "dolor de espalda",
+      "enfermedad pulmonar intersticial",
+      "penfigoide bulloso"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Laboratorios Cinfa, S.A.",
+    "direccion": "Carretera Olaz-Chipi, 10. Poligono Industrial Areta, 31620 Huarte (Navarra) - Espana"
+  },
+  "ultima_actualizacion": "noviembre 2024"
+}

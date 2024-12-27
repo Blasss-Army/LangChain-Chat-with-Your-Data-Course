@@ -1,0 +1,76 @@
+{
+  "medicamento": "Menveo",
+  "principio_activo": [
+    "Oligosacarido meningococico del grupo A",
+    "Oligosacarido meningococico del grupo C",
+    "Oligosacarido meningococico del grupo W-135",
+    "Oligosacarido meningococico del grupo Y"
+  ],
+  "indicaciones": [
+    "meningitis",
+    "septicemia"
+  ],
+  "edad_minima": 2,
+  "contraindicaciones": [
+    "Hipersensibilidad al principio activo",
+    "Hipersensibilidad al toxoide difterico",
+    "Enfermedad febril aguda grave"
+  ],
+  "embarazo": false,
+  "via_administracion": "inyectable",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "somnolencia",
+      "cefalea",
+      "irritabilidad",
+      "malestar general",
+      "dolor en el lugar de la inyeccion",
+      "eritema en el lugar de la inyeccion (<= 50 mm)",
+      "induracion en el lugar de la inyeccion (<= 50 mm)",
+      "nausea",
+      "mialgia",
+      "Cefalea",
+    "Náusea",
+    "Mialgia",
+    "Dolor en el lugar de la inyección",
+    "Eritema (≤ 50 mm) en el lugar de la inyección",
+    "Induración (≤ 50 mm) en el lugar de la inyección",
+    "Malestar general"
+    ],
+    "frecuentes": [
+      "trastornos de la alimentacion",
+      "nauseas",
+      "vomitos",
+      "diarrea",
+      "erupcion cutanea",
+      "mialgia",
+      "artralgia",
+      "escalofrios",
+      "fiebre >= 38degC",
+      "eritema en el lugar de la inyeccion (>50mm)",
+      "induracion en el lugar de la inyeccion (>50mm)",
+      "Erupción cutánea",
+    "Artralgia",
+    "Eritema (> 50 mm) en el lugar de la inyección",
+    "Induración (> 50 mm) en el lugar de la inyección",
+    "Fiebre ≥ 38°C",
+    "Escalofríos"
+    ],
+    "poco_frecuentes": [
+      "mareos",
+      "prurito en el lugar de la inyeccion",
+      "Linfadenopatía"
+    ],
+    "no_conocidos": [
+      "hipersensibilidad", "anafilaxia",
+      "convulsion tonica", "convulsion febril", "sincope",
+      "vertigo",
+      "celulitis en la zona de inyeccion, hinchazon en la zona de inyeccion, incluida la hinchazon extensa del miembro inyectado"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "GSK Vaccines S.r.l.",
+    "direccion": "Via Fiorentina 1, 53100 Siena, Italia"
+  },
+  "ultima_actualizacion": ""
+}

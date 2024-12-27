@@ -1,0 +1,53 @@
+{
+  "medicamento": "Apixabán Olpha",
+  "principio_activo": [
+    "apixabán"
+  ],
+  "indicaciones": [
+    "prevencion y tratamiento de trombosis venosa profunda",
+    "prevención de la formación de coágulos de sangre en el corazón en pacientes con fibrilacion auricular",
+    "prevencion y tratamiento de embolia pulmonar"
+  ],
+  "edad_mínima": 18,
+  "contraindicaciones": [
+    "Alergia a apixabán",
+    "Sangrado excesivo",
+    "úlcera activa o reciente",
+    "hemorragia cerebral reciente",
+    "coagulopatía hepática",
+    "tratamiento anticoagulantes"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "Anemia",
+      "Sangrado",
+      "Náuseas",
+      "aumento en la gamma glutamil transferasa (GGT) o alanina aminotransferasa (GPT)"
+    ],
+    "poco_frecuentes": [
+      "Disminución del número de plaquetas en sangre",
+      "Sangrado",
+      "Presion arterial baja",
+      "función anormal del higado",
+      "Aumento de algunas enzimas del hígado",
+      "Aumento de la bilirrubina",
+      "erupcion cutanea",
+      "Picor",
+      "hipersensibilidad",
+      "Pérdida de cabello"
+    ],
+    "no_conocidos": [
+      "Sangrado",
+      "eritema multiforme",
+      "vasculitis"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Olpha AS",
+    "direccion": "Rupnicu iela 5, Olaine, Olaines novads, LV-2114, Letonia"
+  },
+  "ultima_actualización": "Julio 2024"
+}

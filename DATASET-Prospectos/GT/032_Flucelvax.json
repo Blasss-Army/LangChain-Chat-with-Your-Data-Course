@@ -1,0 +1,63 @@
+{
+  "medicamento": "Flucelvax",
+  "principio_activo": [
+    "Antigenos de superficie del virus de la gripe (hemaglutinina y neuraminidasa)"
+  ],
+  "indicaciones": [
+    "gripe"
+  ],
+  "edad_minima": 2,
+  "contraindicaciones": [
+    "Hipersensibilidad al principio activo",
+    "Hipersensibilidad a beta-propiolactona",
+    "Hipersensibilidad a bromuro de cetiltrimetilamonio",
+    "Hipersensibilidad a polisorbato 80"
+  ],
+  "embarazo": true,
+  "via_administracion": "inyectable",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "Dolor en la zona de inyeccion",
+      "Cefalea",
+      "Mialgia",
+      "Fatiga",
+      "Eritema",
+      "Induracion",
+      "Pérdida del apetito",
+      "Equimosis",
+      "Somnolencia",
+      "irritabilidad",
+      "Cambio en los hábitos alimentarios"
+    ],
+    "frecuentes": [
+      "perdida del apetito",
+      "Nauseas",
+      "Vomitos",
+      "Diarrea",
+      "Artralgia",
+      "Escalofrios",
+      "Equimosis",
+      "Fiebre"
+    ],
+    "poco_frecuentes": [
+      "Fiebre"
+    ],
+    "no_conocidos": [
+      "Reacciones alérgicas", 
+      "hipersensibilidad inmediata",
+      "shock anafiláctico",
+      "Parestesia",
+      "Síndrome de Guillain-Barré",
+      "Reacciones cutáneas generalizadas incluido prurito",
+      "urticaria",
+      "exantema inespecífico",
+      "Hinchazón extensa del miembro en el que se ha inyectado"
+
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Seqirus Netherlands B.V.",
+    "direccion": "Paasheuvelweg 28, 1105BJ Amsterdam, Paises Bajos"
+  },
+  "ultima_actualizacion": ""
+}

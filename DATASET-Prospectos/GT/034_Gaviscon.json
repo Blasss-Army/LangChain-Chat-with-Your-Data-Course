@@ -1,0 +1,46 @@
+{
+  "medicamento": "Gaviscon Forte",
+  "principio_activo": [
+    "Alginato de sodio",
+    "Hidrogenocarbonato de sodio",
+    "Carbonato de calcio"
+  ],
+  "indicaciones": [
+    "Hiperacidez de estomago",
+    "Reflujo acido del estomago"
+  ],
+  "edad_minima": 12,
+  "contraindicaciones": [
+    "Alergia al carbonato de calcio, hidrogenocarbonato (bicarbonato) de sodio, alginato de sodio",
+    "Enfermedad renal grave",
+    "Calculos renales",
+    "Niveles elevados de calcio en sangre",
+    "Niveles bajos de fosfatos en sangre",
+    "Cantidades elevadas de calcio en orina"
+  ],
+  "embarazo": true,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [],
+    "poco_frecuentes": [],
+    "no_conocidos": [
+      "Reacciones alergicas",
+      "Aumento de los niveles de calcio en sangre",
+      "Estrenimiento",
+      "Nauseas",
+      "Vomitos",
+      "Fatiga",
+      "Confusion",
+      "Aumento de la produccion de orina",
+      "Sed",
+      "Deshidratacion",
+      "Sindrome de leche y alcalinos"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "RB NL Brands B.V.",
+    "direccion": "Schiphol Blvd 207, 1118 BH Schiphol, Paises Bajos"
+  },
+  "ultima_actualizacion": "Noviembre 2024"
+}

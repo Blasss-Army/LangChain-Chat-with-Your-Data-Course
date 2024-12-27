@@ -1,0 +1,77 @@
+{
+  "medicamento": "Pantoprazol OPKO",
+  "principio_activo": [
+    "pantoprazol"
+  ],
+  "indicaciones": [
+    "Esofagitis por reflujo",
+    "Infeccion por Helicobacter pylori",
+    "Ulceras de estomago",
+    "Ulceras de duodeno",
+    "Sindrome de Zollinger-Ellison"
+  ],
+  "edad_minima": 12,
+  "contraindicaciones": [
+    "Alergia al pantoprazol",
+    "Alergia a inhibidores de la bomba de protones",
+    "Problemas hepaticos graves",
+    "Reservas corporales de vitamina B12 disminuidas",
+    "Osteoporosis",
+    "Niveles de magnesio bajos",
+    "Reacciones anteriores en la piel por la toma de medicamentos similares a pantoprazol para reducir la acidez de estómago",
+    "Erupciones cutaneas"
+  ],
+  "embarazo": true,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "Polipos benignos en el estomago"
+    ],
+    "poco_frecuentes": [
+      "Hinchazon de la lengua y garganta",
+      "Dificultad para tragar",
+      "Dificultad para respirar",
+      "Hinchazon de la cara",
+      "Mareos intensos con latidos cardíacos muy rápidos",
+      "Sudoración abundante",
+      "Dolor de cabeza",
+      "Vertigos",
+      "Diarrea",
+      "Sensacion de mareo",
+      "Vomitos",
+      "Hinchazon y flatulencia",
+      "Estrenimiento",
+      "Boca seca",
+      "Dolor y malestar abdominal",
+      "Erupcion cutanea",
+      "Exantema",
+      "Picazon",
+      "Sensacion de debilidad",
+      "Cansancio",
+      "Trastornos del sueno",
+      "Fractura de cadera, muneca o columna vertebral"
+    ],
+    "no_conocidos": [
+      "Afecciones graves de la piel",
+      "Coloracion amarillenta de la piel o de la parte blanca de los ojos",
+      "Fiebre",
+      "sarpullido",
+      "agrandamiento de los rinones",
+      "Alucinación",
+      "confusión",
+      "sensación de hormigueo",
+      "cosquilleo",
+      "quemazon o entumecimiento",
+      "erupción cutánea",
+      "dolor en las articulaciones",
+      "inflamación del intestino grueso",
+      "disminución del nivel de sodio"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Laboratori Fundacio Dau",
+    "direccion": "C/ C, 12-14 Pol. Ind. Zona Franca, 08040 Barcelona, Espana"
+  },
+  "ultima_actualizacion": "agosto 2024"
+}

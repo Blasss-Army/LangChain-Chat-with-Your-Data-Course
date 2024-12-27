@@ -1,0 +1,135 @@
+{
+  "medicamento": "Paroxetina Almus Pharma",
+  "principio_activo": [
+    "paroxetina"
+  ],
+  "indicaciones": [
+    "depresion",
+    "trastorno obsesivo compulsivo",
+    "trastorno de angustia",
+    "trastorno de fobia social",
+    "trastorno de estres post-traumatico",
+    "trastorno de ansiedad generalizada"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "tratamiento con IMAO",
+    "tratamiento con tioridazina",
+    "tratamiento con pimozida",
+    "alergia a paroxetina"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "nauseas",
+      "cambio en el deseo o funcion sexual"
+    ],
+    "frecuentes": [
+      "aumento de los niveles de colesterol en sangre",
+      "disminucion del apetito",
+      "dificultad para dormir",
+      "somnolencia",
+      "suenos anormales",
+      "mareo",
+      "temblores",
+      "dolor de cabeza",
+      "dificultad para concentrarse",
+      "agitacion",
+      "debilidad inusual",
+      "vision borrosa",
+      "bostezo",
+      "sequedad de boca",
+      "diarrea",
+      "estrenimiento",
+      "vomitos",
+      "ganancia de peso",
+      "sudoracion",
+
+      "Sentirse mareado", 
+      "inestabilidad o con alteraciones en el equilibrio",
+"Hormigueo", "sensaciones de quemazón","sensación de descarga eléctrica",
+  "zumbidos en la cabeza", "silbidos  en la cabeza", "pitidos  en la cabeza", 
+  "campanilleo u otros ruidos persistentes en los oídos (acúfenos)",
+ "Alteraciones del sueño",
+"Ansiedad"
+
+    ],
+    "poco_frecuentes": [
+      "Vómitos (náuseas)",
+      "Sudoración (incluyendo sudoración nocturna)",
+      "Inquietud o agitación",
+      "Temblor",
+      "Confusión o desorientación",
+      "Diarrea (heces blandas)",
+      "Sentirse muy sensible o irritable",
+      "Alteraciones visuales",
+      "Palpitaciones rápidas o muy fuertes del corazón",
+
+    "cardenales o hemorragias inusuales","sangre en el vómito o en las heces", 
+    "imposibilidad de orinar",
+
+
+    "Convulsiones (crisis epilépticas)",
+    "Sensación de inquietud", "incapacidad para permanecer sentado o quieto (acatisia)",
+    "Cansancio", "debilidad", "confusión", "dolor", "rigidez","falta de coordinación muscular (posible bajo contenido de sodio en la sangre)",
+
+"Dolores de cabeza",
+      "aumentos transitorios de la presion arterial",
+      "disminuciones transitorias de la presion arterial",
+      "latidos del corazon mas rapidos de lo normal",
+      "falta de movimiento",
+      "rigidez",
+      "temblor o movimientos anormales de la boca y lengua",
+      "dilatacion de las pupilas",
+      "erupcion cutanea",
+      "picor",
+      "confusion",
+      "alucinaciones",
+      "reduccion del recuento de globulos blancos",
+      "incapacidad para orinar",
+      "incontinencia urinaria",
+
+
+
+      "Reacciones alérgicas grave", "erupción cutánea"," hinchazón de la cara", "dificultad para respirar o tragar", "debilidad", "vahído", "colapso"," pérdida de conciencia",
+      "Síndrome serotoninérgico o neuroléptico maligno", "agitación", "irritabilidad", "confusión", "inquietud", "sensación de calor", "sudoración", "temblor", "escalofríos", "alucinaciones", "agarrotamiento muscular", "movimientos bruscos", "latidos rápidos del corazón"," pérdida de consciencia",
+      "Glaucoma agudo"," dolor en los ojos", "visión borrosa",
+
+      "Secreción anormal de leche materna",
+    "Disminución del ritmo del corazón",
+    "Efectos en el hígado (pruebas de laboratorio)",
+    "Ataques de pánico",
+    "Manía (comportamientos o pensamientos muy activos)",
+    "Despersonalización (sentirse separado de uno mismo)",
+    "Ansiedad",
+    "Síndrome de Piernas Inquietas (necesidad irresistible de mover las piernas)",
+    "Dolor en articulaciones o músculos",
+    "Aumento de prolactina en sangre",
+    "Alteraciones del periodo menstrual",
+
+    "Eritema multiforme (erupción cutánea con ampollas)",
+    "Síndrome de Stevens-Johnson (erupción con ampollas y descamación)",
+    "Necrólisis epidérmica tóxica (erupción con ampollas y descamación)",
+    "Alteraciones en el hígado (piel o blanco de los ojos amarillos)",
+    "SIHAD (síndrome de secreción inadecuada de hormona antidiurética)",
+    "Retención de agua o líquido (hinchazón de brazos o piernas)",
+    "Sensibilidad a la luz del sol",
+    "Erección dolorosa y prolongada del pene",
+    "Disminución de la cantidad de plaquetas en sangre"
+    ],
+    "no_conocidos": [
+      "pensamientos de causarse lesiones a si mismos o suicidarse",
+      "agresividad",
+      "sangrado vaginal abundante",
+      "Inflamación del colon (que causa diarrea).",
+      "Rechinar de dientes."
+      
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Teva Pharma S.L.U.",
+    "direccion": "C/C, ndeg 4, Poligono Industrial Malpica, 50016 Zaragoza, Espana"
+  },
+  "ultima_actualizacion": "Febrero 2024"
+}

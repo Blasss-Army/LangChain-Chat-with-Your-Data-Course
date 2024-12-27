@@ -1,0 +1,56 @@
+{
+    "medicamento": "Abiraterona Tecnigen",
+    "principio_activo": ["acetato de abiraterona"],
+    "indicaciones": [
+      "cáncer de próstata"
+    ],
+    "edad_mínima": 18,
+    "contraindicaciones": [
+      "Alergia al acetato de abiraterona",
+      "Mujeres, especialmente embarazadas",
+      "Enfermedad grave en el hígado",
+      "Combinación con Ra-223"
+    ],
+    "embarazo": false,
+    "via_administracion": "oral",
+    "efectos_adversos": {
+      "muy_frecuentes": [
+        "Retención de líquidos en las piernas o los pies",
+        "Disminución del nivel de potasio en sangre",
+        "Elevaciones en las pruebas de la función hepática",
+        "Tensión arterial alta",
+        "Infección urinaria",
+        "Diarrea"
+      ],
+      "frecuentes": [
+        "Niveles altos de grasas en sangre",
+        "Dolor en el pecho",
+        "fibrilación auricular",
+        "Insuficiencia cardíaca",
+        "Taquicardia",
+        "sepsis",
+        "Fracturas de hueso",
+        "Indigestión",
+        "Sangre en la orina",
+        "Erupción cutánea"
+      ],
+      "poco_frecuentes": [
+        "Problemas de las glándulas suprarrenales",
+        "arritmia",
+        "Debilidad muscular y/o dolor muscular",
+        "también llamado alveolitis alérgica",
+        "insuficiencia hepática aguda"
+      ],
+      "no_conocidos": [
+        "Ataque al corazón",
+        "Cambios en el electrocardiograma-ECG (prolongación QT)",
+        "Reacciones alérgicas graves",
+        "Erupción pruriginosa"
+      ]
+    },
+    "responsable_fabricacion": {
+      "empresa": "Tecnimede Sociedade Técnico-Medicinal S.A.",
+      "direccion": "Quinta da Cerca, Caixaria 2565-187 Dois Portos (Portugal)"
+    },
+    "ultima_actualización": "julio de 2024"
+  }

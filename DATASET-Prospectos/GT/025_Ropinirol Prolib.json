@@ -1,0 +1,62 @@
+{
+  "medicamento": "Ropinirol Prolib Sandoz",
+  "principio_activo": [
+    "ropinirol"
+  ],
+  "indicaciones": [
+    "enfermedad de Parkinson"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia a ropinirol",
+    "enfermedad grave del rinon",
+    "enfermedad del higado",
+    "dolencia grave del corazón",
+    "trastorno mental grave",
+    "conducta impulsiva y/o comportamiento extraño",
+    "intolerancia a algunos azúcares"
+  ],
+  "embarazo": false,
+  "via_administracion": "comprimidos de liberacion prolongada",
+  "efectos_adversos": {
+    "muy_frecuentes": [
+      "desvanecimiento",
+      "somnolencia",
+      "nauseas"
+    ],
+    "frecuentes": [
+      "alucinaciones",
+      "vertigo",
+      "aparicion repentina del sueno",
+      "vomitos",
+      "dolor abdominal",
+      "ardor de estomago",
+      "dolor de estomago",
+      "estrenimiento",
+      "hinchazon de las piernas, pies o manos"
+    ],
+    "poco_frecuentes": [
+      "hipotension",
+      "hipotension postural",
+      "somnolencia extrema",
+      "delirio",
+      "ideas delirantes",
+      "paranoia",
+      "hipo"
+    ],
+    "no_conocidos": [
+      "cambios en la funcion hepatica",
+      "reacciones alergicas",
+      "sindrome de desregulacion de dopamina",
+      "alteraciones del control de los impulsos",
+      "agresion",
+      "sindrome de abstinencia a agonistas dopaminergicos",
+      "ereccion peneana espontanea"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Sandoz Farmaceutica, S.A.",
+    "direccion": "Centro Empresarial Parque Norte, Edificio Roble, C/ Serrano Galvache, 56, 28033 Madrid, Espana"
+  },
+  "ultima_actualizacion": "julio 2023"
+}

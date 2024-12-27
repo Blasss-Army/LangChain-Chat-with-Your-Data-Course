@@ -1,0 +1,72 @@
+{
+  "medicamento": "Kanpiduo",
+  "principio_activo": ["candesartan", "indapamida"],
+  "indicaciones": [
+    "hipertension"
+  ],
+  "edad_minima": 1,
+  "contraindicaciones": [
+    "alergia a candesartan",
+    "alergia a indapamida",
+    "alergia a sulfonamidas",
+    "embarazo",
+    "enfermedad hepatica grave",
+    "obstruccion biliar",
+    "encefalopatia hepatica",
+    "tratamiento de aliskireno",
+    "bajos niveles de potasio en sangre"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "infeccion respiratoria",
+      "aumento en los niveles de potasio en sangre",
+      "mareo/vertigo",
+      "dolor de cabeza",
+      "reacciones alergicas dermatologicas",
+      "erupcion cutanea",
+      "enrojecimiento de la piel"
+    ],
+    "poco_frecuentes": [
+      "bajos niveles de sodio en sangre",
+      "vomitos",
+      "impotencia",
+      "bajos niveles de cloruro en la sangre",
+      "bajos niveles de magnesio en sangre",
+      "sensación de cansancio, pinchazos y hormigueo",
+      "trastornos gastrointestinales",
+      "trombocitopenia",
+      "leucopeni", 
+      "neutropenia", 
+      "anemia",
+      "altos niveles de calcio en sangre",
+      "irregularidades del ritmo cardiaco",
+      "tos",
+      "función hepática anormal",
+      "erupción cutánea",
+      "dolor de espalda",
+      "dolor en las articulaciones", 
+      "músculos",
+      "trastorno renal"
+    ],
+    "no_conocidos": [
+      "desmayos",
+      "deterioro de la visión",
+      "diarrea",
+      "empeoramiento de lupus eritematoso sistémico",
+      "fotosensibilidad",
+      "calambres musculares",
+      "debilidad muscular",
+      "trazado cardiaco anormal",
+      "aumento del ácido úrico",
+      "aumento de la glucemia en pacientes diabéticos"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "KRKA, D.D., Novo mesto",
+    "direccion": "Smarjeska cesta 6, 8501 Novo mesto, Eslovenia"
+  },
+  "ultima_actualizacion": "septiembre 2024"
+}

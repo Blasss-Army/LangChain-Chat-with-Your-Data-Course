@@ -1,0 +1,82 @@
+{
+  "medicamento": "Rivaroxaban OPKO",
+  "principio_activo": [
+    "rivaroxaban"
+  ],
+  "indicaciones": [
+    "prevencion de coagulos de sangre despues de una operacion de sustitucion de cadera o rodilla",
+    "trombosis venosa profunda",
+    "embolia pulmonar"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia a rivaroxaban",
+    "sangrado excesivo",
+    "enfermedad que aumente el riesgo de hemorragia grave",
+    "embarazo",
+    "lactancia"
+  ],
+  "embarazo": false,
+  "via_administracion": "comprimido",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [
+      "sangrado del estomago o del intestino",
+      "hemorragia urogenital",
+      "hemorragia nasal",
+      "sangrado de las encias",
+      "sangrado en el ojo",
+      "hematoma",
+      "tos con sangre",
+      "sangrado de la piel",
+      "sangrado despues de una operacion",
+      "supuracion de sangre de una herida quirurgica",
+      "hinchazon de las extremidades",
+      "dolor de las extremidades",
+      "fiebre",
+      "disminucion de los globulos rojos",
+      "dolor de estomago",
+      "indigestion",
+      "mareo",
+      "estrenimiento",
+      "diarrea",
+      "presion arterial baja",
+      "debilidad",
+      "cansancio",
+      "dolor de cabeza",
+      "sarpullido",
+      "picor de la piel",
+      "alteración de la función de los riñones",
+      "los análisis de sangre pueden mostrar un aumento de la bilirrubina, de algunas enzimas pancreáticas o hepáticas, o del número de plaquetas"
+    ],
+    "poco_frecuentes": [
+      "sangrado en el cerebro",
+      "sangrado en una articulacion",
+      "trombocitopenia",
+      "desvanecimiento",
+      "sensacion de malestar",
+      "sequedad de boca",
+      "aumento de la frecuencia cardiaca",
+      "reaccion alergica",
+      "ronchas",
+      "alteración de la función del hígado",
+      "sangrado en un músculo",
+      "colestasis",
+      "hepatitis",
+      "hinchazón localizada",
+      "ictericia",
+      "acumulación de sangre (hematoma) en la ingle como complicación después de una cirugía cardíaca en la que se introduce un catéter en la arteria de la pierna (pseudoaneurisma)",
+      "neumonía eosinofílica"
+    ],
+    "no_conocidos": [
+      "síndrome compartimental por hemorragia",
+      "insuficiencia renal después de una hemorragia grave",
+      "nefropatía relacionada con anticoagulantes"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "Laboratori Fundacio Dau",
+    "direccion": "C/ C, 12-14 Pol. Ind. Zona Franca, 08040 Barcelona, Espana"
+  },
+  "ultima_actualizacion": "septiembre 2024"
+}

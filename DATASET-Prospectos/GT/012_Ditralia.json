@@ -1,0 +1,41 @@
+{
+  "medicamento": "Ditralia",
+  "principio_activo": ["colecalciferol"],
+  "indicaciones": [
+    "deficiencia de vitamina D"
+  ],
+  "edad_minima": 18,
+  "contraindicaciones": [
+    "alergia al colecalciferol",
+    "hipervitaminosis D",
+    "altos niveles de calcio en sangre",
+    "altos niveles de calcio en orina",
+    "nefrocalcinosis",
+    "insuficiencia renal grave"
+  ],
+  "embarazo": false,
+  "via_administracion": "oral",
+  "efectos_adversos": {
+    "muy_frecuentes": [],
+    "frecuentes": [],
+    "poco_frecuentes": [
+      "hipercalcemia",
+      "hipercalciuria",
+      "purito",
+      "erupcion cutanea",
+      "urticaria"
+    ],
+    "no_conocidos": [
+      "estrenimiento",
+      "flatulencia",
+      "nauseas",
+      "dolor abdominal",
+      "diarrea"
+    ]
+  },
+  "responsable_fabricacion": {
+    "empresa": "IBSA Farmaceutici Italia S.r.l",
+    "direccion": "S.S. n. 11 Padana Superiore Km 160, 20051 Cassina de' Pecchi (Mi), Italia"
+  },
+  "ultima_actualizacion": "Agosto 2024"
+}
